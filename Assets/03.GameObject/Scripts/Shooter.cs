@@ -12,6 +12,7 @@ namespace ScriptGameObject
 		public Transform shootPosition;
 		public AudioSource audioSource;
 		public CinemachineVirtualCamera cam;
+		public Animator anim;
 
 		private void Update()
 		{
@@ -45,6 +46,7 @@ namespace ScriptGameObject
 			// Instantiate : 게임오브젝트 프리팹을 씬에 생성
 			Instantiate(bullet, shootPosition.position, shootPosition.rotation);
 			audioSource.Play();
+			anim.SetTrigger("Shoot");
 		}
 	}
 }

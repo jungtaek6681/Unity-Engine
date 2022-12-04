@@ -380,6 +380,7 @@ MonoBehaviour:
   shootPosition: {fileID: 4888801138498100376}
   audioSource: {fileID: 3285122300312998424}
   cam: {fileID: 0}
+  anim: {fileID: 1908021344}
 --- !u!82 &3285122300312998424
 AudioSource:
   m_ObjectHideFlags: 0
@@ -861,6 +862,7 @@ GameObject:
   - component: {fileID: 1096471072}
   - component: {fileID: 1096471071}
   - component: {fileID: 1611243571}
+  - component: {fileID: 1908021344}
   m_Layer: 7
   m_Name: Tank
   m_TagString: Untagged
@@ -945,6 +947,26 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.8
   m_Center: {x: 0, y: 1, z: 0}
+--- !u!95 &1908021344
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7955534064473202191}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 08693b611e13f964d946df36c40e5da6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &5889667895528623256
 PrefabInstance:
   m_ObjectHideFlags: 0
