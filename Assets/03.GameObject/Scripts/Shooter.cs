@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace ScriptGameObject
 {
@@ -14,10 +15,15 @@ namespace ScriptGameObject
 		{
 			if (Input.GetKeyDown(KeyCode.Space))
 			{
-				// Instantiate : 게임오브젝트 프리팹을 씬에 생성
-				Instantiate(bullet, shootPosition.position, shootPosition.rotation);
-				audioSource.Play();
+				Shoot();
 			}
+		}
+
+		public void Shoot()
+		{
+			// Instantiate : 게임오브젝트 프리팹을 씬에 생성
+			Instantiate(bullet, shootPosition.position, shootPosition.rotation);
+			audioSource.Play();
 		}
 	}
 }
