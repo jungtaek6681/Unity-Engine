@@ -379,6 +379,7 @@ MonoBehaviour:
   bullet: {fileID: 7879036700160578782, guid: dae2c512f8068c0499fd1066ed920470, type: 3}
   shootPosition: {fileID: 4888801138498100376}
   audioSource: {fileID: 3285122300312998424}
+  cam: {fileID: 0}
 --- !u!82 &3285122300312998424
 AudioSource:
   m_ObjectHideFlags: 0

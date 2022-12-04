@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Cinemachine;
 
 namespace ScriptGameObject
 {
@@ -10,6 +11,7 @@ namespace ScriptGameObject
 		public GameObject bullet;
 		public Transform shootPosition;
 		public AudioSource audioSource;
+		public CinemachineVirtualCamera cam;
 
 		private void Update()
 		{
@@ -17,6 +19,25 @@ namespace ScriptGameObject
 			{
 				Shoot();
 			}
+
+			if (Input.GetKeyDown(KeyCode.LeftShift))
+			{
+				FocuseOn();
+			}
+			else if (Input.GetKeyUp(KeyCode.LeftShift))
+			{
+				FocuseOff();
+			}
+		}
+
+		private void FocuseOn()
+		{
+			cam.Priority = 30;
+		}
+
+		private void FocuseOff()
+		{
+			cam.Priority = 1;
 		}
 
 		public void Shoot()
