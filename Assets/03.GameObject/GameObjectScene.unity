@@ -1970,7 +1970,7 @@ GameObject:
   - component: {fileID: 2972895103568462604}
   - component: {fileID: 2972895103572898234}
   - component: {fileID: 2972895103572897976}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1991,7 +1991,7 @@ GameObject:
   - component: {fileID: 2972895103557023050}
   - component: {fileID: 2972895103561099770}
   - component: {fileID: 2972895103572663634}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2009,7 +2009,7 @@ GameObject:
   - component: {fileID: 2972895103566686464}
   - component: {fileID: 2972895103567442884}
   - component: {fileID: 2972895103568481740}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crater01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2029,7 +2029,7 @@ GameObject:
   - component: {fileID: 2972895103568502788}
   - component: {fileID: 2972895103572670868}
   - component: {fileID: 2972895103572682612}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2049,7 +2049,7 @@ GameObject:
   - component: {fileID: 2972895103568455668}
   - component: {fileID: 2972895103572640600}
   - component: {fileID: 2972895103572898906}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2071,7 +2071,7 @@ GameObject:
   - component: {fileID: 2972895103572641754}
   - component: {fileID: 2972895103572648716}
   - component: {fileID: 2972895103572675684}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column02 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2103,7 +2103,7 @@ GameObject:
   - component: {fileID: 2972895103561088802}
   - component: {fileID: 2972895103562955654}
   - component: {fileID: 2972895103562955816}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2121,7 +2121,7 @@ GameObject:
   - component: {fileID: 2972895103566729160}
   - component: {fileID: 2972895103567470420}
   - component: {fileID: 2972895103568503058}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crater01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2141,7 +2141,7 @@ GameObject:
   - component: {fileID: 2972895103568670622}
   - component: {fileID: 2972895103572883044}
   - component: {fileID: 2972895103562946742}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2157,7 +2157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566702746}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: OilField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2177,7 +2177,7 @@ GameObject:
   - component: {fileID: 2972895103568485212}
   - component: {fileID: 2972895103572677706}
   - component: {fileID: 2972895103572686952}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2195,7 +2195,7 @@ GameObject:
   - component: {fileID: 2972895103566653934}
   - component: {fileID: 2972895103567413216}
   - component: {fileID: 2972895103568679470}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2216,7 +2216,7 @@ GameObject:
   - component: {fileID: 2972895103572641086}
   - component: {fileID: 2972895103572692318}
   - component: {fileID: 2972895103572658052}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2234,7 +2234,7 @@ GameObject:
   - component: {fileID: 2972895103566714884}
   - component: {fileID: 2972895103567482138}
   - component: {fileID: 2972895103568455540}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2252,7 +2252,7 @@ GameObject:
   - component: {fileID: 2972895103566639748}
   - component: {fileID: 2972895103567409734}
   - component: {fileID: 2972895103568693508}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2270,7 +2270,7 @@ GameObject:
   - component: {fileID: 2972895103566645536}
   - component: {fileID: 2972895103567446138}
   - component: {fileID: 2972895103568503638}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2289,7 +2289,7 @@ GameObject:
   - component: {fileID: 2972895103556785080}
   - component: {fileID: 2972895103572881776}
   - component: {fileID: 2972895103572879156}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PumpJack (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2310,7 +2310,7 @@ GameObject:
   - component: {fileID: 2972895103572886840}
   - component: {fileID: 2972895103572664714}
   - component: {fileID: 2972895103572882474}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2328,7 +2328,7 @@ GameObject:
   - component: {fileID: 2972895103566707210}
   - component: {fileID: 2972895103567459670}
   - component: {fileID: 2972895103568671554}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2344,7 +2344,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566725762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Military
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2378,7 +2378,7 @@ GameObject:
   - component: {fileID: 2972895103562961570}
   - component: {fileID: 2972895103562969384}
   - component: {fileID: 2972895103562942818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2397,7 +2397,7 @@ GameObject:
   - component: {fileID: 2972895103567490480}
   - component: {fileID: 2972895103568493590}
   - component: {fileID: 2972895103562941794}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2415,7 +2415,7 @@ GameObject:
   - component: {fileID: 2972895103566731936}
   - component: {fileID: 2972895103567453992}
   - component: {fileID: 2972895103568455794}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2433,7 +2433,7 @@ GameObject:
   - component: {fileID: 2972895103566645906}
   - component: {fileID: 2972895103567419152}
   - component: {fileID: 2972895103568673284}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2451,7 +2451,7 @@ GameObject:
   - component: {fileID: 2972895103566681274}
   - component: {fileID: 2972895103567455038}
   - component: {fileID: 2972895103568473292}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2470,7 +2470,7 @@ GameObject:
   - component: {fileID: 2972895103567440636}
   - component: {fileID: 2972895103568671378}
   - component: {fileID: 2972895103561085876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2489,7 +2489,7 @@ GameObject:
   - component: {fileID: 2972895103567447126}
   - component: {fileID: 2972895103568673626}
   - component: {fileID: 2972895103572717528}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GroundPlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2508,7 +2508,7 @@ GameObject:
   - component: {fileID: 2972895103567495724}
   - component: {fileID: 2972895103568699594}
   - component: {fileID: 2972895103561102072}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2524,7 +2524,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566659912}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Boundaries
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2542,7 +2542,7 @@ GameObject:
   - component: {fileID: 2972895103566640848}
   - component: {fileID: 2972895103567480662}
   - component: {fileID: 2972895103568493520}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2562,7 +2562,7 @@ GameObject:
   - component: {fileID: 2972895103568504116}
   - component: {fileID: 2972895103572663550}
   - component: {fileID: 2972895103572890650}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2579,7 +2579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2972895103566643630}
   - component: {fileID: 2972895103561225938}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pumpjack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2595,7 +2595,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566696798}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2615,7 +2615,7 @@ GameObject:
   - component: {fileID: 2972895103568445792}
   - component: {fileID: 2972895103572867248}
   - component: {fileID: 2972895103572871268}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2634,7 +2634,7 @@ GameObject:
   - component: {fileID: 2972895103567415668}
   - component: {fileID: 2972895103568502158}
   - component: {fileID: 2972895103562946068}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cactus (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2666,7 +2666,7 @@ GameObject:
   - component: {fileID: 2972895103561089906}
   - component: {fileID: 2972895103561075252}
   - component: {fileID: 2972895103561069098}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2686,7 +2686,7 @@ GameObject:
   - component: {fileID: 2972895103568501152}
   - component: {fileID: 2972895103572658852}
   - component: {fileID: 2972895103572880236}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2706,7 +2706,7 @@ GameObject:
   - component: {fileID: 2972895103568499672}
   - component: {fileID: 2972895103572861892}
   - component: {fileID: 2972895103572649404}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2722,7 +2722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566716570}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2741,7 +2741,7 @@ GameObject:
   - component: {fileID: 2972895103567489514}
   - component: {fileID: 2972895103568451658}
   - component: {fileID: 2972895103562958890}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cactus (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2759,7 +2759,7 @@ GameObject:
   - component: {fileID: 2972895103566650930}
   - component: {fileID: 2972895103567481910}
   - component: {fileID: 2972895103568472550}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2778,7 +2778,7 @@ GameObject:
   - component: {fileID: 2972895103567417068}
   - component: {fileID: 2972895103568676922}
   - component: {fileID: 2972895103562953050}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2797,7 +2797,7 @@ GameObject:
   - component: {fileID: 2972895103567479406}
   - component: {fileID: 2972895103568495804}
   - component: {fileID: 2972895103561090512}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Radar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2815,7 +2815,7 @@ GameObject:
   - component: {fileID: 2972895103566700268}
   - component: {fileID: 2972895103567442580}
   - component: {fileID: 2972895103568685788}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2833,7 +2833,7 @@ GameObject:
   - component: {fileID: 2972895103566651152}
   - component: {fileID: 2972895103567491406}
   - component: {fileID: 2972895103568457266}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2849,7 +2849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566717986}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cacti
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2867,7 +2867,7 @@ GameObject:
   - component: {fileID: 2972895103566686582}
   - component: {fileID: 2972895103567451142}
   - component: {fileID: 2972895103568488000}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2888,7 +2888,7 @@ GameObject:
   - component: {fileID: 2972895103572880676}
   - component: {fileID: 2972895103572864088}
   - component: {fileID: 2972895103572647688}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2908,7 +2908,7 @@ GameObject:
   - component: {fileID: 2972895103568460756}
   - component: {fileID: 2972895103572639840}
   - component: {fileID: 2972895103561092866}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2926,7 +2926,7 @@ GameObject:
   - component: {fileID: 2972895103566709586}
   - component: {fileID: 2972895103567437044}
   - component: {fileID: 2972895103568704256}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crater01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2944,7 +2944,7 @@ GameObject:
   - component: {fileID: 2972895103566662880}
   - component: {fileID: 2972895103567418030}
   - component: {fileID: 2972895103568502278}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2962,7 +2962,7 @@ GameObject:
   - component: {fileID: 2972895103566682978}
   - component: {fileID: 2972895103567440384}
   - component: {fileID: 2972895103568674910}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2980,7 +2980,7 @@ GameObject:
   - component: {fileID: 2972895103566674450}
   - component: {fileID: 2972895103567505080}
   - component: {fileID: 2972895103568497832}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2998,7 +2998,7 @@ GameObject:
   - component: {fileID: 2972895103566642194}
   - component: {fileID: 2972895103567416406}
   - component: {fileID: 2972895103568669782}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3017,7 +3017,7 @@ GameObject:
   - component: {fileID: 2972895103567495904}
   - component: {fileID: 2972895103568678290}
   - component: {fileID: 2972895103561046178}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3037,7 +3037,7 @@ GameObject:
   - component: {fileID: 2972895103568455626}
   - component: {fileID: 2972895103562946876}
   - component: {fileID: 2972895103572657468}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: BustedTank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3057,7 +3057,7 @@ GameObject:
   - component: {fileID: 2972895103568488110}
   - component: {fileID: 2972895103572869238}
   - component: {fileID: 2972895103572899414}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3077,7 +3077,7 @@ GameObject:
   - component: {fileID: 2972895103568472062}
   - component: {fileID: 2972895103556842704}
   - component: {fileID: 2972895103561082686}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3095,7 +3095,7 @@ GameObject:
   - component: {fileID: 2972895103566666614}
   - component: {fileID: 2972895103567453756}
   - component: {fileID: 2972895103568490378}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3113,7 +3113,7 @@ GameObject:
   - component: {fileID: 2972895103566644962}
   - component: {fileID: 2972895103567461404}
   - component: {fileID: 2972895103568696076}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3133,7 +3133,7 @@ GameObject:
   - component: {fileID: 2972895103568687148}
   - component: {fileID: 2972895103557030036}
   - component: {fileID: 2972895103561081002}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: OilStorage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3153,7 +3153,7 @@ GameObject:
   - component: {fileID: 2972895103568682278}
   - component: {fileID: 2972895103557036862}
   - component: {fileID: 2972895103562955964}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3172,7 +3172,7 @@ GameObject:
   - component: {fileID: 2972895103557023218}
   - component: {fileID: 2972895103572648822}
   - component: {fileID: 2972895103572646436}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PumpJack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3190,7 +3190,7 @@ GameObject:
   - component: {fileID: 2972895103566720550}
   - component: {fileID: 2972895103567419696}
   - component: {fileID: 2972895103568470270}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3206,7 +3206,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566667128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ruins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3229,7 +3229,7 @@ GameObject:
   - component: {fileID: 2972895103572862586}
   - component: {fileID: 2972895103572879488}
   - component: {fileID: 2972895103572644750}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Refinery
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3246,7 +3246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2972895103566646522}
   - component: {fileID: 2972895103561009004}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pumpjack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3262,7 +3262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566645302}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LevelArt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3282,7 +3282,7 @@ GameObject:
   - component: {fileID: 2972895103568449832}
   - component: {fileID: 2972895103561054328}
   - component: {fileID: 2972895103572687664}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3300,7 +3300,7 @@ GameObject:
   - component: {fileID: 2972895103566668162}
   - component: {fileID: 2972895103567489910}
   - component: {fileID: 2972895103568481808}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3317,7 +3317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2972895103566680538}
   - component: {fileID: 2972895103561216524}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pumpjack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3337,7 +3337,7 @@ GameObject:
   - component: {fileID: 2972895103568695400}
   - component: {fileID: 2972895103572686986}
   - component: {fileID: 2972895103572647922}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Helipad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3360,7 +3360,7 @@ GameObject:
   - component: {fileID: 2972895103572672950}
   - component: {fileID: 2972895103572668384}
   - component: {fileID: 2972895103572896514}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ruins01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3380,7 +3380,7 @@ GameObject:
   - component: {fileID: 2972895103568458982}
   - component: {fileID: 2972895103556821940}
   - component: {fileID: 2972895103561099184}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: OilStorage (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3398,7 +3398,7 @@ GameObject:
   - component: {fileID: 2972895103566721740}
   - component: {fileID: 2972895103567465790}
   - component: {fileID: 2972895103568501378}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3418,7 +3418,7 @@ GameObject:
   - component: {fileID: 2972895103568480640}
   - component: {fileID: 2972895103572886552}
   - component: {fileID: 2972895103572650798}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3436,7 +3436,7 @@ GameObject:
   - component: {fileID: 2972895103566688358}
   - component: {fileID: 2972895103567434282}
   - component: {fileID: 2972895103568491502}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3452,7 +3452,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566705508}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3472,7 +3472,7 @@ GameObject:
   - component: {fileID: 2972895103568482316}
   - component: {fileID: 2972895103557041044}
   - component: {fileID: 2972895103561051858}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3490,7 +3490,7 @@ GameObject:
   - component: {fileID: 2972895103566703466}
   - component: {fileID: 2972895103567451762}
   - component: {fileID: 2972895103568693128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3508,7 +3508,7 @@ GameObject:
   - component: {fileID: 2972895103566675088}
   - component: {fileID: 2972895103567460650}
   - component: {fileID: 2972895103568474016}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3526,7 +3526,7 @@ GameObject:
   - component: {fileID: 2972895103566639254}
   - component: {fileID: 2972895103567431546}
   - component: {fileID: 2972895103568678748}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3544,7 +3544,7 @@ GameObject:
   - component: {fileID: 2972895103566692836}
   - component: {fileID: 2972895103567426960}
   - component: {fileID: 2972895103568492382}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3578,7 +3578,7 @@ GameObject:
   - component: {fileID: 2972895103562967876}
   - component: {fileID: 2972895103562971028}
   - component: {fileID: 2972895103561059398}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3596,7 +3596,7 @@ GameObject:
   - component: {fileID: 2972895103566652186}
   - component: {fileID: 2972895103567462838}
   - component: {fileID: 2972895103568485180}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3614,7 +3614,7 @@ GameObject:
   - component: {fileID: 2972895103566636878}
   - component: {fileID: 2972895103567484686}
   - component: {fileID: 2972895103568453154}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crater01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3633,7 +3633,7 @@ GameObject:
   - component: {fileID: 2972895103567494230}
   - component: {fileID: 2972895103568497526}
   - component: {fileID: 2972895103561066092}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3653,7 +3653,7 @@ GameObject:
   - component: {fileID: 2972895103568675546}
   - component: {fileID: 2972895103572692238}
   - component: {fileID: 2972895103561047276}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3671,7 +3671,7 @@ GameObject:
   - component: {fileID: 2972895103566702584}
   - component: {fileID: 2972895103567488054}
   - component: {fileID: 2972895103568486002}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3690,7 +3690,7 @@ GameObject:
   - component: {fileID: 2972895103556795454}
   - component: {fileID: 2972895103572669404}
   - component: {fileID: 2972895103572859132}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PumpJack (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3710,7 +3710,7 @@ GameObject:
   - component: {fileID: 2972895103568457498}
   - component: {fileID: 2972895103572864128}
   - component: {fileID: 2972895103572652082}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3730,7 +3730,7 @@ GameObject:
   - component: {fileID: 2972895103568461996}
   - component: {fileID: 2972895103562941734}
   - component: {fileID: 2972895103572688536}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3748,7 +3748,7 @@ GameObject:
   - component: {fileID: 2972895103566718932}
   - component: {fileID: 2972895103567446674}
   - component: {fileID: 2972895103568482482}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3766,7 +3766,7 @@ GameObject:
   - component: {fileID: 2972895103566680924}
   - component: {fileID: 2972895103567431358}
   - component: {fileID: 2972895103568481304}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3785,7 +3785,7 @@ GameObject:
   - component: {fileID: 2972895103567438850}
   - component: {fileID: 2972895103568467160}
   - component: {fileID: 2972895103561059896}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3803,7 +3803,7 @@ GameObject:
   - component: {fileID: 2972895103566640386}
   - component: {fileID: 2972895103567457334}
   - component: {fileID: 2972895103568693866}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3821,7 +3821,7 @@ GameObject:
   - component: {fileID: 2972895103566705076}
   - component: {fileID: 2972895103567413764}
   - component: {fileID: 2972895103568501478}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3839,7 +3839,7 @@ GameObject:
   - component: {fileID: 2972895103566661956}
   - component: {fileID: 2972895103567405626}
   - component: {fileID: 2972895103568461108}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Concrete (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3858,7 +3858,7 @@ GameObject:
   - component: {fileID: 2972895103567463964}
   - component: {fileID: 2972895103568462748}
   - component: {fileID: 2972895103562960434}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cow (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3877,7 +3877,7 @@ GameObject:
   - component: {fileID: 2972895103567423066}
   - component: {fileID: 2972895103568503682}
   - component: {fileID: 2972895103561063266}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3895,7 +3895,7 @@ GameObject:
   - component: {fileID: 2972895103566707660}
   - component: {fileID: 2972895103567500236}
   - component: {fileID: 2972895103568671776}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3916,7 +3916,7 @@ GameObject:
   - component: {fileID: 2972895103572873386}
   - component: {fileID: 2972895103572661294}
   - component: {fileID: 2972895103572645878}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3934,7 +3934,7 @@ GameObject:
   - component: {fileID: 2972895103566674354}
   - component: {fileID: 2972895103567452294}
   - component: {fileID: 2972895103568481548}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3953,7 +3953,7 @@ GameObject:
   - component: {fileID: 2972895103567452160}
   - component: {fileID: 2972895103568681524}
   - component: {fileID: 2972895103561101930}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3971,7 +3971,7 @@ GameObject:
   - component: {fileID: 2972895103566640664}
   - component: {fileID: 2972895103567428634}
   - component: {fileID: 2972895103568498442}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3991,7 +3991,7 @@ GameObject:
   - component: {fileID: 2972895103568468994}
   - component: {fileID: 2972895103572887320}
   - component: {fileID: 2972895103572670922}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4007,7 +4007,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2972895103566684954}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Trees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4028,7 +4028,7 @@ GameObject:
   - component: {fileID: 2972895103556792648}
   - component: {fileID: 2972895103562957344}
   - component: {fileID: 2972895103572668972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4047,7 +4047,7 @@ GameObject:
   - component: {fileID: 2972895103567479700}
   - component: {fileID: 2972895103568689856}
   - component: {fileID: 2972895103561095734}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PalmTree (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4068,7 +4068,7 @@ GameObject:
   - component: {fileID: 2972895103556847212}
   - component: {fileID: 2972895103561084372}
   - component: {fileID: 2972895103572678884}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Building02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4087,7 +4087,7 @@ GameObject:
   - component: {fileID: 2972895103567417120}
   - component: {fileID: 2972895103568482126}
   - component: {fileID: 2972895103561086808}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cactus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4105,7 +4105,7 @@ GameObject:
   - component: {fileID: 2972895103566676880}
   - component: {fileID: 2972895103567457306}
   - component: {fileID: 2972895103568479182}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes02 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4124,7 +4124,7 @@ GameObject:
   - component: {fileID: 2972895103567423812}
   - component: {fileID: 2972895103568469996}
   - component: {fileID: 2972895103562963852}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cactus (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4144,7 +4144,7 @@ GameObject:
   - component: {fileID: 2972895103568451938}
   - component: {fileID: 2972895103572664488}
   - component: {fileID: 2972895103572896350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4164,7 +4164,7 @@ GameObject:
   - component: {fileID: 2972895103568488552}
   - component: {fileID: 2972895103572682192}
   - component: {fileID: 2972895103562953742}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4186,7 +4186,7 @@ GameObject:
   - component: {fileID: 2972895103572656550}
   - component: {fileID: 2972895103572645050}
   - component: {fileID: 2972895103572891218}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Column02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4205,7 +4205,7 @@ GameObject:
   - component: {fileID: 2972895103567421068}
   - component: {fileID: 2972895103568448558}
   - component: {fileID: 2972895103561090228}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Tree (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4225,7 +4225,7 @@ GameObject:
   - component: {fileID: 2972895103568501094}
   - component: {fileID: 2972895103561044010}
   - component: {fileID: 2972895103572665600}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rocks02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4248,7 +4248,7 @@ GameObject:
   - component: {fileID: 2972895103572678114}
   - component: {fileID: 2972895103572858702}
   - component: {fileID: 2972895103572640136}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ruins01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4266,7 +4266,7 @@ GameObject:
   - component: {fileID: 2972895103566658974}
   - component: {fileID: 2972895103567478036}
   - component: {fileID: 2972895103568478932}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dunes01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

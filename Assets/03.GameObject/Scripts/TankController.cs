@@ -8,14 +8,75 @@ namespace ScriptGameObject
 {
 	public class TankController : MonoBehaviour
 	{
+		public Rigidbody rigid;
 		public Space space;
 		public float moveSpeed;
 		public float turnSpeed;
 
 		private void Update()
 		{
-			TranslateMove();
+			VelocityMove();
 			RotateTurn();
+		}
+
+		private void VelocityMove()
+		{
+			if (space == Space.World)
+			{
+				// 게임월드 기준 이동
+				if (Input.GetKey(KeyCode.UpArrow))
+				{
+					rigid.velocity = Vector3.forward * moveSpeed;
+				}
+
+				if (Input.GetKey(KeyCode.DownArrow))
+				{
+					rigid.velocity = Vector3.back * moveSpeed;
+				}
+			}
+			else
+			{
+				// 게임오브젝트 기준 이동
+				if (Input.GetKey(KeyCode.UpArrow))
+				{
+					rigid.velocity = transform.forward * moveSpeed;
+				}
+
+				if (Input.GetKey(KeyCode.DownArrow))
+				{
+					rigid.velocity = -1 * transform.forward * moveSpeed;
+				}
+			}
+		}
+
+		private void ForceMove()
+		{
+			if (space == Space.World)
+			{
+				// 게임월드 기준 이동
+				if (Input.GetKey(KeyCode.UpArrow))
+				{
+					rigid.AddForce(Vector3.forward * moveSpeed * Time.deltaTime, ForceMode.Impulse);
+				}
+
+				if (Input.GetKey(KeyCode.DownArrow))
+				{
+					rigid.AddForce(Vector3.back * moveSpeed * Time.deltaTime, ForceMode.Impulse);
+				}
+			}
+			else
+			{
+				// 게임오브젝트 기준 이동
+				if (Input.GetKey(KeyCode.UpArrow))
+				{
+					rigid.AddRelativeForce(Vector3.forward * moveSpeed * Time.deltaTime, ForceMode.Impulse);
+				}
+
+				if (Input.GetKey(KeyCode.DownArrow))
+				{
+					rigid.AddRelativeForce(Vector3.back * moveSpeed * Time.deltaTime, ForceMode.Impulse);
+				}
+			}
 		}
 
 		private void TranslateMove()

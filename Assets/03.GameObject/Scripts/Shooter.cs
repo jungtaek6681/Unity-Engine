@@ -2,17 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Shooter : MonoBehaviour
+namespace ScriptGameObject
 {
-	public GameObject bullet;
-	public Transform shootPosition;
-
-	private void Update()
+	public class Shooter : MonoBehaviour
 	{
-		if (Input.GetKeyDown(KeyCode.Space))
+		public GameObject bullet;
+		public Transform shootPosition;
+
+		private void Update()
 		{
-			// Instantiate : 게임오브젝트 프리팹을 씬에 생성
-			Instantiate(bullet, shootPosition.position, shootPosition.rotation);
+			if (Input.GetKeyDown(KeyCode.Space))
+			{
+				// Instantiate : 게임오브젝트 프리팹을 씬에 생성
+				Instantiate(bullet, shootPosition.position, shootPosition.rotation);
+			}
 		}
 	}
 }
