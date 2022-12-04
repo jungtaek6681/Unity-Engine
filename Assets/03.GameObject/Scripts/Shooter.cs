@@ -8,6 +8,7 @@ namespace ScriptGameObject
 	{
 		public GameObject bullet;
 		public Transform shootPosition;
+		public AudioSource audioSource;
 
 		private void Update()
 		{
@@ -15,6 +16,7 @@ namespace ScriptGameObject
 			{
 				// Instantiate : 게임오브젝트 프리팹을 씬에 생성
 				Instantiate(bullet, shootPosition.position, shootPosition.rotation);
+				audioSource.Play();
 			}
 		}
 	}
